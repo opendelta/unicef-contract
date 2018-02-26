@@ -70,7 +70,7 @@ if (cliOptions.help) {
 
   // Config
   const solidityFile = './smart_contract/etherdelta.sol';
-  const contractName = 'EtherDelta';
+  const contractName = 'unicefDEX';
   const solcVersion = 'v0.4.9+commit.364da425';
   const address = cliOptions.address;
   const admin = cliOptions.admin;
